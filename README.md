@@ -2,10 +2,28 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+```
+
+CONVEX_DEPLOYMENT= 
+NEXT_PUBLIC_CONVEX_URL=
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=
+
+CLERK_WEBHOOK_SECRET=
+
+```
+
+```
+npm run dev
+```
 
 
-![image](https://github.com/user-attachments/assets/d3dfd976-53e7-49eb-828c-1a3a640d147b)
+![image](https://github.com/user-attachments/assets/792eea72-db01-4844-bd71-285263b9a03b)
+
 
 
 
