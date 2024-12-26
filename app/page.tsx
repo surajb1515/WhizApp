@@ -19,7 +19,7 @@ export default function Home() {
       />
       <div className="relative z-10 mx-auto space-y-8 text-center max-w-7xl">
         <h1 className="text-5xl font-bold tracking-tighter text-transparent md:text-6xl xl:text-7xl whitespace-nowrap bg-gradient-to-r from-gray-900 via-gray-600 to-gray-900 bg-clip-text dark:bg-gradient-to-r dark:from-gray-400 via dark:bg-neutral-400">
-          Welcome to Not WhizApp
+          Hey, Welcome to WhizApp
         </h1>
         <p className="max-w-3xl mx-auto text-xl bg-background  w-fit text-muted-foreground md:text-2xl">
           It&apos;s like WhatsApp, but not... You know what we mean.
