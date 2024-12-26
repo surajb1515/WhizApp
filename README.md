@@ -16,3 +16,7 @@ First, run the development server:
 
 
 ![Screenshot 2024-12-26 190538](https://github.com/user-attachments/assets/823017e9-91e6-455e-84bb-8fb9b1c95005)
+
+![Screenshot 2024-12-26 190551](https://github.com/user-attachments/assets/ee7ba66d-d39b-485a-bf3d-0d250b55d667)
+
+![Screenshot 2024-12-26 190451](https://github.com/user-attachments/assets/afbc368e-2187-4362-8aca-d4bd9f197270)
